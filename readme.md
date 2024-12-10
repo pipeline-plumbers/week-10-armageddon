@@ -28,7 +28,7 @@ Key Takeaways
         Tokyo       =   10.100.0.0 (Julien): Completed in the combination of individual files 
         New York	  =   10.101.0.0 (Ester): https://github.com/EsterhitchensWAF/Armageddon-pipelineplumbs/tree/main
         London		  =   10.102.0.0 (Julien): Completed in the combination of individual files
-        São Paulo	  =   10.103.0.0 (Adan): https://github.com/Agentadan/sao_paulo_vpc_armageddon
+        São Paulo	  =   10.103.0.0 (Adan): https://github.com/Agentadan/sao_paulo_vpc_armageddon AND (L): https://github.com/ldatareserve/armageddonplumbers/tree/main
         Australia	  = 	10.104.0.0 (Jonathan): https://github.com/bigjon38/Australia_VPC_for_Armageddon
         Hong Kong   =   10.105.0.0 (Cameron): https://github.com/CameronLCleveland/Hong-Kong
         California  =	  10.106.0.0 (Marvin): https://github.com/kilik42/california_vpc_for_armageddon
