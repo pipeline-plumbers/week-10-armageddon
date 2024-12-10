@@ -25,16 +25,19 @@ Initial Project: sao_paulo_vpc_armageddon
 
 Key Takeaways
   - Team members contributed individual region configurations be combined into the final project submission
-        Tokyo       =   10.100.0.0 (Julien): Completed in the combination of individual files 
-        New York	  =   10.101.0.0 (Ester): https://github.com/EsterhitchensWAF/Armageddon-pipelineplumbs/tree/main
-        London		  =   10.102.0.0 (Julien): Completed in the combination of individual files
-        São Paulo	  =   10.103.0.0 (Adan): https://github.com/Agentadan/sao_paulo_vpc_armageddon AND (L): https://github.com/ldatareserve/armageddonplumbers/tree/main
-        Australia	  = 	10.104.0.0 (Jonathan): https://github.com/bigjon38/Australia_VPC_for_Armageddon
-        Hong Kong   =   10.105.0.0 (Cameron): https://github.com/CameronLCleveland/Hong-Kong
-        California  =	  10.106.0.0 (Marvin): https://github.com/kilik42/california_vpc_for_armageddon
-    - Planning Session: https://www.youtube.com/watch?v=uhL5cqiJrXg&ab_channel=JulesofTech        
+    - Tokyo       =   10.100.0.0 (Julien): Completed in the combination of individual files
+    - New York	  =   10.101.0.0 (Ester): https://github.com/EsterhitchensWAF/Armageddon-pipelineplumbs/tree/main
+    - London		  =   10.102.0.0 (Julien): Completed in the combination of individual files
+    - São Paulo	  =   10.103.0.0 (Adan): https://github.com/Agentadan/sao_paulo_vpc_armageddon AND (L): https://github.com/ldatareserve/armageddonplumbers/tree/main
+    - Australia	  = 	10.104.0.0 (Jonathan): https://github.com/bigjon38/Australia_VPC_for_Armageddon
+    - Hong Kong   =   10.105.0.0 (Cameron): https://github.com/CameronLCleveland/Hong-Kong
+    - California  =	  10.106.0.0 (Marvin): https://github.com/kilik42/california_vpc_for_armageddon
+      
+  - Planning Session: https://www.youtube.com/watch?v=uhL5cqiJrXg&ab_channel=JulesofTech
+
   - Jules combined this into a complex Terraform configuration for multi-region VPCs connected via transit gateways, with Tokyo as the hub
     - Explanation Session: https://youtu.be/Fk3kJ5G5Wwo?si=4C-Aq7zRM7M3jcH7
+
   - The project demonstrates advanced AWS networking concepts and Terraform skills valuable for job interviews and real-world scenarios
   - Proper documentation (README files) for each component is crucial for explaining the project's architecture and functionality
 
